@@ -8,3 +8,4 @@ Work repository for DK81, DK82. AiP-2.
 
 Please note that each student must create separate **_work_ folder** for self in the corresponding group folder.
 Thanks.
+ooopsie
